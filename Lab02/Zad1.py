@@ -69,3 +69,4 @@ print("Predicted output based on the best solution : {prediction}".format(predic
 
 #wyswietlenie wykresu: jak zmieniala sie ocena na przestrzeni pokolen
 ga_instance.plot_fitness()
+

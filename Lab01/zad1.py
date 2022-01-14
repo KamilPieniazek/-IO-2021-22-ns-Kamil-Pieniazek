@@ -54,3 +54,4 @@ print "Max: ", np.max(e)
 print "Odchylenie standardowe: ", np.std(e)
 
 # g
+

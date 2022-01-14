@@ -24,3 +24,4 @@ with open('iris.csv', 'r') as irisdatabase:
 
     print compatibility
     print round(np.divide(float(compatibility), 150) * 100)
+

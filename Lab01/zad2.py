@@ -20,4 +20,5 @@ plt.legend()
 plt.ylabel('Liczba ludnosci [w tys]')
 plt.title('Ludnosc w miastach Polski')
 
+
 plt.show()

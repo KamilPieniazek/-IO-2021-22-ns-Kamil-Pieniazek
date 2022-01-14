@@ -35,3 +35,4 @@ for i in range(128):
 # konwersja macierzy na obrazek iwietlenie
 plt.imshow(data, interpolation='nearest')
 plt.show()
+

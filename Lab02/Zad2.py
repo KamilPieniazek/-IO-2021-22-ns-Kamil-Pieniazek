@@ -16,3 +16,4 @@ def zawartosc(x,y,z):
 print zawartosc(przedmiot,wartosc,waga)
 
 # if()
+
